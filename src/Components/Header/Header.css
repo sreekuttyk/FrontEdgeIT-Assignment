@@ -1,0 +1,25 @@
+.header{
+    width:100%;
+    height:80px;
+    position: fixed;
+    background-color:white;
+    border-radius: 1px solid rgb(218,220,224);
+    box-shadow:rgba(0,0,0,0.6) 0px 4px 4px;
+    display: flex;
+    align-items: center;
+    z-index: 1;
+}
+.logo{
+     left:20px;
+     width:135px;
+    }
+.nav{
+    margin-left: 1000px;
+    }
+ .navlink{
+     padding: 10px;
+     color: blue;
+     font-weight: 10px;
+     font-size:x-large;
+     
+     }
